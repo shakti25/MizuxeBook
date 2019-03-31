@@ -1,0 +1,24 @@
+{
+  "name": "website-boilerplate-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rtoora@bitbucket.org/rtoora/website-boilerplate-template.git"
+  },
+  "author": "rajiv.toora",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/rtoora/website-boilerplate-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
+  }
+}
