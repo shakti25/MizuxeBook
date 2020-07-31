@@ -15,7 +15,7 @@
   "homepage": "https://bitbucket.org/rtoora/website-boilerplate-template#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.7"
   },
   "devDependencies": {
